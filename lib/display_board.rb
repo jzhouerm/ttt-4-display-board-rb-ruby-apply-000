@@ -9,3 +9,5 @@ end
 
 display_board(board)
 
+board = [" "," "," "," "," "," "," "," "," "]
+display_board(board)
